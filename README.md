@@ -23,9 +23,7 @@ Advance_java_lab/
 │   └── Other project files
 │
 └── README.md
-```
 
-*Note: The folder names above are examples. The actual repository structure may vary depending on the experiments and project files uploaded.*
 
 ## 🧪 Lab Experiments
 
@@ -60,8 +58,8 @@ The project aims to demonstrate the practical application of Java programming co
 ### Technologies Used
 
 * **Programming Language:** Java
-* **Database:** Specify the database used, if applicable.
-* **Frameworks and Tools:** Specify the frameworks and tools used in the project.
+* **Database:** MySql
+
 
 ### Project Files
 
